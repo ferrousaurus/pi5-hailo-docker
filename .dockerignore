@@ -1,0 +1,10 @@
+.git
+.env
+.env.*
+!.env.example
+*.deb
+*.tar
+*.tar.gz
+*.zip
+models/
+README.md
